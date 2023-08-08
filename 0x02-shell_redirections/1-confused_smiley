@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "(Ôo)'" > confused_smiley.txt
-
+echo '"(Ôo)'\'
 
